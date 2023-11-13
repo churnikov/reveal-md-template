@@ -1,0 +1,6 @@
+{
+  "project_name": "RevealMD Template",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author": "Anonymous",
+  "generate_examples": true
+}
